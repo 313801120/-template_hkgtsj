@@ -1,0 +1,41 @@
+【#sub#】
+网站首页【|】columntype='首页' columnenname='HOME' parentid='-1' flags='||' sortrank='1'
+别墅精装【|】columntype='产品' columnenname='CASES' flags='|top|' sortrank='2'
+    别墅大宅 
+    平层复式 
+    样板间 
+    酒店会所 
+    设计视频
+设计团队【|】columntype='产品' columnenname='TEAMS' flags='|top|' sortrank='3'
+	设计师
+全案定制【|】columntype='产品' columnenname='CUSTOM' flags='|top|' sortrank='4' templatepath='index_custom_Model.html' 
+
+最新工地【|】columntype='BUILDING' columnenname='NEWS' flags='|top|' sortrank='6'
+	热装楼盘 
+	最新工地 
+	最新活动 
+	在线报名 
+	在线咨询 
+别墅施工【|】columntype='PROJECT' columnenname='NEWS' flags='|top|' sortrank='7'
+    奥斯卡施工 
+    施工管理 
+    装修流程 
+    工地施工 
+    首创工艺 
+    辅材材料 
+
+装修百科【|】columntype='NEWS' columnenname='NEWS' flags='|top|' sortrank='8'
+    别墅空间 
+    设计风水 
+    建材挑选
+
+品质服务【|】columntype='SERVICE' columnenname='NEWS' flags='|top|' sortrank='9'
+    企业简介【|】columntype='文本'
+    公司动态 
+    客户评价 
+    公司荣誉 
+    人才招聘 
+    联系我们【|】columntype='文本'
+-------------------------------
+【#stop#】true 
+-------------------------------
